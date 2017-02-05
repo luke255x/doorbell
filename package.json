@@ -16,7 +16,10 @@
     "url": "https://github.com/luke255x/doorbell/issues"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "gpio": "^0.2.7",
-    "node-aplay": "^1.0.3"
+    "node-aplay": "^1.0.3",
+    "request": "^2.79.0",
+    "shuffle-array": "^1.0.0"
   }
 }
