@@ -1,0 +1,22 @@
+{
+  "name": "doorbell",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luke255x/doorbell.git"
+  },
+  "author": "luke255",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luke255x/doorbell/issues"
+  },
+  "dependencies": {
+    "gpio": "^0.2.7",
+    "node-aplay": "^1.0.3"
+  }
+}
