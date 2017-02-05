@@ -7,7 +7,7 @@ var gpio = require('gpio'),
 	options = require('./config.json'),
 	ledOn = true,
 	flashTmr = 0,
-	soundsDir = './sounds/' + options.soundsDir + '/',
+	soundsDir = '/home/pi/doorbell/sounds/' + options.soundsDir + '/',
 	wavs = [],
 	dd,
 	playing = false
